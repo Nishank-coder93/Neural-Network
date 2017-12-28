@@ -1,7 +1,5 @@
-# Bhatnagar, Nishank
-# 1001-397-7098
-# 2017-11-26
-# Assignment_06-01
+# Author: Bhatnagar, Nishank
+# Citation: Source for recognition taken from FaceNet Model https://github.com/davidsandberg/facenet
 # Description: Used OpenCV to use Camera Feed as the source and fed the Frame or Image over to FaceNet
 # FaceNet is the implementation of the CNN to recognize faces, 
 # The model is pre trained on given Class photo data 
